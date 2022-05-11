@@ -3,7 +3,7 @@ In this project I created a simple weather application that help find out the we
 
 Website Link: [Click To Access Site](https://michaelteye.github.io/WeatherInfo.github.io/)
 
-![the weather image](images\weather.png)
+![the weather image](.\images\weather.png)
 
 # How It's Made:
 ### Tech Used: HTML, CSS, JavaScript
